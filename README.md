@@ -1,1 +1,1 @@
-# SDC-ISM
+# Efficient ISMrecon code is coming soon!
