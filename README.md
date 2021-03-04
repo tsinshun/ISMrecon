@@ -1,1 +1,1 @@
-# Efficient ISMrecon code is coming soon!
+# this code is free to use, but please cite our paper appropriately.
