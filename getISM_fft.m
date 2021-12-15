@@ -14,7 +14,7 @@
 % Ipat: reconstructed ISM image with the same localization data, but
 % use a standard Gaussian function as a light-spot to do the ISM reconstruction
 %% 
-function [Iism,Ipat] = getISM_OC(imstack, F, X, Y,scale, Npixel,Bg)
+function [Iism,Ipat] = getISM_fft(imstack, F, X, Y,scale, Npixel,Bg)
 % Npixel: Width of PSF
 
 [M,N,Lz] = size(imstack);
